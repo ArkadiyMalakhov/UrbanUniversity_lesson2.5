@@ -13,7 +13,7 @@ for i in list_:
     print(*i)
 
 
-print('Решение задачи псогласно ТЗ')
+print('Решение задачи согласно ТЗ')
 def get_matrix(n, m, value):
     matrix = []
     for i in range(n):
